@@ -1,0 +1,13 @@
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\bin\Debug\TestProject2.dll
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\bin\Debug\TestProject2.pdb
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\bin\Debug\nunit.framework.dll
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\bin\Debug\WebDriver.dll
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\bin\Debug\nunit.framework.xml
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\obj\Debug\TestProject2.csproj.AssemblyReference.cache
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\obj\Debug\TestProject2.csproj.CoreCompileInputs.cache
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\obj\Debug\TestProject2.csproj.CopyComplete
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\obj\Debug\TestProject2.dll
+D:\Универ\3 year\Тестирование\TestingLabs\lab10\TestProject2\TestProject2\obj\Debug\TestProject2.pdb
